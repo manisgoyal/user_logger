@@ -1,16 +1,9 @@
-# user_logger
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<h1>
+  User Logger
+</h1>
+<h2>
+  Video Demo
+ </h2>
+<div align="center">
+  <video src="https://user-images.githubusercontent.com/62842010/202878140-76a74ffb-ab9e-43d4-a348-f6fda9803e13.mp4"></video>
+</div>
